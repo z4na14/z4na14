@@ -10,10 +10,13 @@
 </div> 
 <p align="center"><img src="https://www.codewars.com/users/Z4na14/badges/small" alt="codewars"/></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=z4na14&label=Profile%20views&color=000000&style=flat-square" alt="z4na14" /> </p>
+
 ---
+
 As a student at the University Carlos III of Madrid, I'm passionate about video games and technology. Since I was just a child I've been interested in computing and how everything around me works. I am focused now on backend and software development.  
   
 ---
+
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
