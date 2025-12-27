@@ -1,6 +1,8 @@
 
 <h1>All my personal projects will be moving to https://git.z4na14.dev</h1>
 
+<h3>Just use Codeberg or smth else at this point</h3>
+
 <h6>Thank you Microsoft for sending this platform to shit</h6>
 
 <br>
