@@ -1,6 +1,8 @@
 
 <h1>All my personal projects will be moving to https://git.z4na14.dev</h1>
 
+<h6>Thank you Microsoft for sending this platform to shit</h6>
+
 <br>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
