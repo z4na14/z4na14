@@ -1,5 +1,6 @@
 
-<h1>All my personal projects will be moving to https://git.z4na14.dev</h1>
+<h1>https://git.z4na14.dev</h1>
+<h3>Microsoft just pisses me off</h3>
 
 <br>
 
