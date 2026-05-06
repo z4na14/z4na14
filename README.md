@@ -19,6 +19,8 @@ And some technologies whatsoever:
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<div align="right"><img src="spamton.gif" alt="spamton" width="100"></div>
+
 ---
 
 <br>
