@@ -5,6 +5,13 @@ I've been writing python scripts since _[[SINCe?]]_ I was 14, and I _[[HeartShap
 
 <br>
 
+Find me on:
+
+- [Codeberg: @z4na14](https://codeberg.org/z4na14)
+- [Private forgejo instance: @z4na14](https://git.z4na14.dev/z4na14)
+
+<br>
+
 **What languages I use:**
 
 <br>
