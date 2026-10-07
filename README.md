@@ -1,3 +1,5 @@
+> [!WARNING]
+> ~Fuck google~ I've switched to a [new mail](mailto:zana@sdx14.net), from my previous Google one, so many of my commits will get unauthored.
 
 IV'E BE3N WRI1TING [NotaProgrammingLanguage] PROGRAMS S1NCE I WAS 14, AND I [HeartShapedObject] T0 TINK3R WITH EVERYTH1NG THAT G0ES THROUGH MY H4NDS. DOES NOT MATTER WHEN YOU READ THIS, I WILL STILL BE USING [Linux]. I W1LL HELP YOU INSTALL [Hyperlink Blocked]. DEALS SO GOOD I'LL [$!$$] MYSELF!!11!. [I use Arch btw]
 
